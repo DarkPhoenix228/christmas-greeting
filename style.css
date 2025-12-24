@@ -213,3 +213,14 @@ footer {
         transform: translateY(0);
     }
 }
+
+.qr-section {
+    text-align: center;
+    margin-top: 20px;
+    opacity: 0.8;
+}
+
+.qr-section p {
+    font-size: 0.9rem;
+    margin-bottom: 10px;
+}
